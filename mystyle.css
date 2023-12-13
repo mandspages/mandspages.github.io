@@ -1,0 +1,14 @@
+
+body {
+  background-color: snow;
+}
+
+
+div.a {
+  text-indent: 50px;
+}
+
+
+table, th, td {
+  border:1px solid black;
+}
