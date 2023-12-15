@@ -13,10 +13,11 @@ table, th, td {
   border:1px solid black;
 }
 
-#table, td, a {
-#  font-family: "Lucida Console", "Courier New", monospace;
-#  }
- 
+
+th, td {
+  padding: 15px;
+}
+
 
 
 a:link {
