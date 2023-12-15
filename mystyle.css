@@ -1,6 +1,6 @@
 
 body {
-  background-color: snow;
+  background-color: lightsteelblue;
 }
 
 
@@ -12,3 +12,23 @@ div.a {
 table, th, td {
   border:1px solid black;
 }
+
+#table, td, a {
+#  font-family: "Lucida Console", "Courier New", monospace;
+#  }
+ 
+
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
