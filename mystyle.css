@@ -4,6 +4,11 @@ body {
 }
 
 
+a.nowrap1 {
+    white-space: nowrap;
+}
+
+
 div.a {
   text-indent: 50px;
 }
@@ -19,7 +24,6 @@ th, td {
 }
 
 
-
 a:link {
   color: black;
   background-color: transparent;
@@ -32,4 +36,5 @@ a:hover {
   background-color: transparent;
   text-decoration: underline;
 }
+
 
