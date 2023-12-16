@@ -38,3 +38,9 @@ a:hover {
 }
 
 
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
