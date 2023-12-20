@@ -4,6 +4,12 @@ body {
 }
 
 
+#theDiv {
+  width: 400px;
+  border: solid red 2px;
+}
+
+
 a.nowrap1 {
     white-space: nowrap;
 }
