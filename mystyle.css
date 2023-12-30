@@ -6,7 +6,7 @@ body {
 
 #theDiv {
   width: 400px;
-  border: solid red 2px;
+  border: solid darkblue 2px;
 }
 
 
@@ -17,11 +17,15 @@ a.nowrap1 {
 
 div.a {
   text-indent: 50px;
+
 }
 
 
+
+
+
 table, th, td {
-  border:1px solid black;
+  border:1px solid darkblue;
 }
 
 
