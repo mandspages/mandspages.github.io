@@ -73,6 +73,8 @@ h1, h2 {
 /* text of individual links will not split when table is resized */
 a.nowrap1 {
     white-space: nowrap;
+        font-size: 16px;
+
 }
 
 
